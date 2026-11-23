@@ -13,4 +13,3 @@ Fonts are self-hosted in `site/fonts/`: Doto (the LED sign) and Public Sans (bod
 
 ## To do
 - Add a photo: put `seth.jpg` in `site/` and uncomment the `<img class="photo">` line in `index.html` (instructions in the HTML comment).
-- Add LinkedIn link (commented out in `index.html`).
